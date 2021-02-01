@@ -1,0 +1,19 @@
+<html>
+<script>
+alert("Hola mi amigo!");
+var name = prompt("Como te llamas? (Responde sin 'me llamo'.)");
+alert("Hola " + name + "!");
+alert("mi nombre es Bake");
+var age = prompt("¿Cuantos años tienes? (Tengo 20 años)");
+alert("¡frio! usted está " + age + " años. ¡Quiero ser así de viejo!");
+prompt("¡Oh! ¡Casi me olvido de mi reunión, comienza en 3 minutos y allí todos hablamos de nuestros objetivos! adiós! (responde diciendo adiós)");
+</script>
+<body>
+<h1>
+l_S-o  
+</h1>
+<h3>
+Soy el señor bake la serpiente
+</h3> 
+</body>
+</html>
